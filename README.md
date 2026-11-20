@@ -1,10 +1,5 @@
 # Análisis Complejo — Primer cuatrimestre de 2015
 
-## Equipo docente
-
-- **Clases teóricas:** Daniel Carando
-- **Clases prácticas:** Martín Szyld, Felipe Marceca
-
 ## Prácticas
 
 - [Números Complejos, Funciones y Homografías](complejo1.pdf)
